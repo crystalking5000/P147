@@ -1,0 +1,37 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    background-color: aquamarine;
+    bottom: 0;
+    position: fixed;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px grey;
+    border-color: grey;
+    float: left;
+}
+
+#canvad
+{
+    float: right;
+}
+
